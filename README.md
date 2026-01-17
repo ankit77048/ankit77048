@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**ankit77048/ankit77048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice meeting you, I'm Ankit !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m a 4th year B.Tech student at Galgotias College of Engineering and Technology, passionate about learning and building things with code.
+
+🔭 I’m currently working on improving my programming skills and building small projects to strengthen my fundamentals.
+
+🤝 I’m looking to collaborate on beginner-friendly and learning-based projects related to Java, web development, or problem solving.
+
+🛠️ I’m looking for help with understanding real-world project structure, best coding practices, and interview preparation.
+
+🌱 I’m currently learning Java, Data Structures & Algorithms, and basic web technologies.
+
+💬 Ask me about Java basics, arrays, problem solving, or my journey as a B.Tech student.
+
+⚡ Fun fact: I believe consistency matters more than talent, and I try to code a little every day.
+
